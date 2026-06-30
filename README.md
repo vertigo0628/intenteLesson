@@ -1,4 +1,4 @@
- # Android Intents Lesson Project
+ # Android Intents Lesson Project.
 
  
 This project serves as a practical guide to understanding and implementing **Intents** in Android using Jetpack Compose.
